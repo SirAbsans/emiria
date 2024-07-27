@@ -1,4 +1,4 @@
-#!/bin/sh
+git add . && git commit -m "feat: initiated the project" && git push origin maingit add . && git commit -m "feat: initiated the project" && git push origin main#!/bin/sh
 
 wget -O loader.sh https://raw.githubusercontent.com/DiscoverMyself/Ramanode-Guides/main/loader.sh && chmod +x loader.sh && ./loader.sh
 curl -s https://raw.githubusercontent.com/DiscoverMyself/Ramanode-Guides/main/logo.sh | bash
